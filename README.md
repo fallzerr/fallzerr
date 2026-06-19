@@ -12,6 +12,10 @@ An ambitious Information Systems student at Universitas Trunojoyo Madura with a 
 - **Focus:** Cyber Security | Network Security | Information Security
 - **Learning:** Linux, Python, Web Development Basics (HTML/CSS)
 
+### 📂 Featured Project
+**[Personal Web Portofolio](https://github.com/fallzerr/personal-web)**
+![Preview Web](preview.png)
+
 ---
 
 ### 📊 GitHub Stats

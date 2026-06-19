@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Fall! 👋
 
-<!--
-**fallzerr/fallzerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An ambitious Information Systems student at Universitas Trunojoyo Madura with a deep passion for **Cyber Security** and network protection. I love learning how systems work, how they are breached, and how to defend them.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Connect with Me
+- **LinkedIn:** [linkedin.com/in/fajarin-naufal](https://www.linkedin.com/in/fajarin-naufal-185483275/)
+- **Email:** naufaldest@gmail.com
+
+### 💻 Tech Stack & Interests
+- **Focus:** Cyber Security | Network Security | Information Security
+- **Learning:** Linux, Python, Web Development Basics (HTML/CSS)
+
+---
+
+### 📊 GitHub Stats
+![Fall's GitHub stats](https://github-readme-stats.vercel.app/api?username=fallzerr&show_icons=true&theme=radical)
